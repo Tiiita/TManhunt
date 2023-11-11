@@ -1,0 +1,4 @@
+name: TManhunt
+version: '${project.version}'
+main: de.tiiita.tmanhunt.TManhunt
+api-version: '1.20'
